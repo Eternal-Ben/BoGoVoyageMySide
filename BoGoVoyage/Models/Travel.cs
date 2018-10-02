@@ -16,5 +16,11 @@ namespace BoGoVoyage.Models
         {
 
         }
+
+        public int RaisonAnnulationDossier()
+        {
+        int client = 1;
+        int placesinsufisante = 2;
+        }
     }
 }
